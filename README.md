@@ -1,0 +1,2 @@
+# TextMiningPractica
+Práctica de TextMining
